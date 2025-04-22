@@ -75,7 +75,7 @@ cd GCBot
 - Run the gesture detection script:
 
   ```bash
-  python gesture_control.py
+  python GetData.py
   ```
 
 
