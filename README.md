@@ -26,7 +26,7 @@ GCBot/
 ### 🧱 1. Clone the Repository
 
 ```bash
-git clone https://github.com/WorldConqueror5623/GCBot.git
+git clone https://github.com/WorldConqueror5623/Gesture-Controlled-Robot.git
 cd GCBot
 ```
 
